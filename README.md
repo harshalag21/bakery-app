@@ -1,5 +1,5 @@
 
-<h1>:bakery: Parjanay's Bakery</h1>
+<h1>:bakery: harshal's Bakery</h1>
 
 *Ecommerce template built using React and styled-components*
 
