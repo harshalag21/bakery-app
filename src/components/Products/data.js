@@ -11,7 +11,7 @@ export const productData = [
     alt: 'Patisserie',
     name: 'Chocolate Tart',
     desc: 'Simple Chocolate Tarts have a rich chocolate filling baked into a tender sweet crust. They’re rich and decadent, with just the perfect amount of sweetness.',
-    price: '$19.99',
+    price: '₹200',
     button: 'Add to Cart'
   },
   {
@@ -19,7 +19,7 @@ export const productData = [
     alt: 'Breads',
     name: 'Sourdough loaves',
     desc: 'Sourdough is an Alaskan term that refers to someone who has lived in Alaska for several winters. The term likely originated in the Klondike Gold Rush at the end of the 19th Century. ',
-    price: '$16.99',
+    price: '₹300',
     button: 'Add to Cart'
   },
   {
@@ -27,7 +27,7 @@ export const productData = [
     alt: 'Vienoiserie',
     name: 'Kouign amann',
     desc: 'Both are made with a laminated dough to create many flaky layers; but while croissant dough is enriched with milk and butter, the true kouign amann is made with what',
-    price: '$14.99',
+    price: '₹400',
     button: 'Add to Cart'
   },
   {
@@ -35,7 +35,7 @@ export const productData = [
     alt: 'Donuts',
     name: 'Doughlicious',
     desc: 'Belgian chocolate glazed donuts covered in icing with sprinkles on otp',
-    price: '$9.99',
+    price: '₹100',
     button: 'Add to Cart'
   },
   {
@@ -43,7 +43,7 @@ export const productData = [
     alt: 'Ice Cream',
     name: 'Caramel Wonder',
     desc: 'Vanilla ice cream covered with caramel and chocolate glaze topped with a cocoa stick',
-    price: '$12.99',
+    price: '₹150',
     button: 'Add to Cart'
   },
   {
@@ -51,7 +51,7 @@ export const productData = [
     alt: 'Brownie',
     name: 'Brownie Bunch',
     desc: 'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: '$9.99',
+    price: '₹200',
     button: 'Add to Cart'
   }
 ]

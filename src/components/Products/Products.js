@@ -19,6 +19,10 @@ export const ProductCard = styled.div`
   margin: 0 2rem;
   line-height: 2;
   width: 300px;
+  transition: all 0.5s ease;
+  &:hover {
+    transform: scale(1.2);
+  }
 `;
 
 export const ProductImg = styled.img`
